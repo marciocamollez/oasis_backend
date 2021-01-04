@@ -1,0 +1,1 @@
+Usar o Insomnia e ir na rota de Login. É preciso logar com o primeiro usuario cadastrado, pois ele vai gerar um numero de token que deve ser inserido na seção de "Enviroment"
